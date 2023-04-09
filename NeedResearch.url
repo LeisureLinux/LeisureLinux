@@ -1,18 +1,4 @@
-# These are researches need to dive deep:
-
-What is the difference between the Bash operators [[ vs [ vs ( vs ((?
--- https://unix.stackexchange.com/questions/306111/what-is-the-difference-between-the-bash-operators-vs-vs-vs
-
-
-LightDM Sucks
--- http://ravindrayadava.blogspot.com/2018/02/lightdm-install-and-configure.html
--- https://www.togaware.com/linux/survivor/Locking_Screen_with_LightDM.html
--- https://wiki.ubuntu.com/LightDM
-
-
-
-Displaying a user prompt on the GNOME login screen
--- https://docs.fedoraproject.org/en-US/quick-docs/displaying_user_prompt_on_gnome_login_screen/
+### These are researches need to dive deep:
 
 Benchmark tools
 https://haydenjames.io/linux-benchmark-scripts-tools/
